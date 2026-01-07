@@ -34,3 +34,6 @@ python3 data_visualization.py Job_Vacancies_Quarterly.csv Average_Hourly_Wage_Qu
 3. View the graph in the output window that is generated.
 
 4. Open `output.csv` for further analysis of your filter selections.
+
+## Additional Info:
+This project is for educational purposes.
