@@ -6,9 +6,9 @@ import matplotlib.pyplot as plt
 
 #
 #   Group Members:
-#   Lorenzo Rodriguez (1337822),
-#   Elliot Peracchia (1318458),
-#   Owen Pitcher-Bond (1345969)
+#   Lorenzo Rodriguez
+#   Elliot Peracchia
+#   Owen Pitcher-Bond
 #
 
 # Function to get match user input string to string name in file
